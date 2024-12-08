@@ -26,7 +26,7 @@ int main (int argc, char *argv[]){
 
 
 }
-
+//
 //a1 allocated new memory
 //a2 prints out the address of the memory 
 //a3 puts a number 0 in that new allocated memory
